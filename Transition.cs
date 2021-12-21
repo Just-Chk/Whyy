@@ -1,3 +1,5 @@
+// The script for the animation change on every scene change.
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
