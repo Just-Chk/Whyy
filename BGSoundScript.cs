@@ -1,3 +1,5 @@
+// The script for the game background music
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
