@@ -1,3 +1,5 @@
+// The script for changing to the next scene after a choice is made.
+
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
