@@ -1,3 +1,5 @@
+// The script for the game ending from different levels.
+
 using UnityEngine;
 using UnityEngine.SceneManagement;
 public class EndGame : MonoBehaviour
