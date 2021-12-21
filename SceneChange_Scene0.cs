@@ -1,3 +1,5 @@
+// The script for changing to different menus from the main screen.
+
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
