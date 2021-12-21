@@ -1,3 +1,5 @@
+// The script for pausing the audio when the game is being paused.
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
