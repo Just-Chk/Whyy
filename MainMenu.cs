@@ -1,3 +1,5 @@
+// The script for the returning to the main menu.
+
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
